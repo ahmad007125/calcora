@@ -1,0 +1,6 @@
+{
+  "name": "OmniCalc - All-in-One Professional Calculator & Converter Suite",
+  "description": "Comprehensive, modern calculator suite featuring 50+ precision calculators and unit converters across Health, Finance, Unit Conversion, Creative Design, Date & Time, and Text & Data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
